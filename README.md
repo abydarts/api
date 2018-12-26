@@ -1,2 +1,2 @@
-# test babastudio
-Baba Studio Test API
+# Sample Codeigniter REST API Server
+REST API Server using CI
